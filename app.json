@@ -28,8 +28,8 @@
   "platform": "15.0.0.0",
   "idRanges": [
     {
-      "from": 500100,
-      "to": 500149
+      "from": 50100,
+      "to": 50149
     }
   ],
   "contextSensitiveHelpUrl": "http://www.mynavblog.com/",

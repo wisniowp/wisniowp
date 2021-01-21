@@ -88,6 +88,111 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Setup - Control Bonus Nos. - Property Tooltip</note>
         </trans-unit>
+        <trans-unit id="Page 3920254204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus customer number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus starting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus ending date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus status.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Action 1994005900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action CustomerCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Action 1994005900 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens customer card.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action CustomerCard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonuses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bonus number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the starting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ending date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bonus status.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Action 1994005900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Action CustomerCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Action 1994005900 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens customer card.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Action CustomerCard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1102013874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1102013874 - Control 1878130204 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies type of the bonus assigned.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Subform - Control Type - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="Page 1102013874 - Control 568743302 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies item number for which bonus is assigned.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Subform - Control Item No. - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="Page 1102013874 - Control 422868665 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus percent.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Subform - Control Bonus Perc. - Property Tooltip</note>
+        </trans-unit>
         <trans-unit id="Enum 1015206188 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Open</source>
           <note from="Developer" annotates="general" priority="2"></note>
