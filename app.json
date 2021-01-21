@@ -3,13 +3,13 @@
   "name": "ALProject2",
   "publisher": "Default publisher",
   "version": "1.0.0.0",
-  "brief": "",
+  "brief": "Bonus extension",
   "description": "Extension Bonus",
-  "privacyStatement": "",
+  "privacyStatement": "http://www.mynavblog.com/help",
   "EULA": "http://www.mynavblog.com/eula",
   "help": "http://www.mynavblog.com/help",
   "url": "http://www.mynavblog.com",
-  "logo": "",
+  "logo": "mleko.jpg",
   "dependencies": [
     {
       "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
@@ -28,8 +28,8 @@
   "platform": "15.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 500100,
+      "to": 500149
     }
   ],
   "contextSensitiveHelpUrl": "http://www.mynavblog.com/",

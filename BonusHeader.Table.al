@@ -1,4 +1,4 @@
-table 50101 "MNB Bonus Header"
+table 500101 "MNB Bonus Header"
 {
     Caption = 'Bonus';
     DataClassification = CustomerContent;
