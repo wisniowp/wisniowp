@@ -3,6 +3,41 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject2">
     <body>
       <group id="body">
+        <trans-unit id="Table 2915650444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2915650444 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2915650444 - Field 3518116046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Field Bonus No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2915650444 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2915650444 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2915650444 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2915650444 - Field 631925499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Entry - Field Bonus Amount - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3448698517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bonus</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -133,6 +168,51 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action CustomerCard - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 3920254204 - Action 3169626393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action BonusEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Action 3169626393 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens bonus entries.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action BonusEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Control 3518116046 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Control Bonus No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Control 486908828 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Control Document No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Control 3710982960 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Control Posting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 930789314 - Control 631925499 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Entries - Control Bonus Amount - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 3316261338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bonuses</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -192,6 +272,31 @@
           <source>Specifies bonus percent.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Subform - Control Bonus Perc. - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 66209321 - Control 2502609590 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Shows number of assgined bonuses to customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MNB Customer List - Control MNB Bonuses - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 66209321 - Action 3508556790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Bonuses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MNB Customer List - Action MNBBonuses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 66209321 - Action 3508556790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Bonuses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MNB Customer List - Action MNBBonuses - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2084561311 - Field 2502609590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Customer Bonuses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MNB Customer - Field MNB Bonuses - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2084561311 - NamedType 4147471356" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>You can not delete Customer %1 because there is at least one Bonus assigned.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Customer</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MNB Customer - NamedType BonusExistsErr</note>
         </trans-unit>
         <trans-unit id="Enum 1015206188 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Open</source>
