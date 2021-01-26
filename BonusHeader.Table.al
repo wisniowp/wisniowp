@@ -10,6 +10,18 @@ table 50101 "MNB Bonus Header"
         {
             DataClassification = CustomerContent;
             Caption = 'No.';
+            trigger OnValidate()
+            var
+                MNBBonusSetup: Record "MNB Bonus Setup";
+                NoSeriesManagement: Codeunit NoSeriesManagement;
+            begin
+                TestStatusOpen();
+                if "No." <> xRec."No." then begin
+                    MNBBonusSetup.Get();
+                    MNBBonusSetup.TestField("Bonus Nos.");
+                    NoSeriesManagement.TestManual(MNBBonusSetup."Bonus Nos.");
+                end;
+            end;
         }
         field(2; "Customer No."; Code[20])
         {
@@ -41,4 +53,20 @@ table 50101 "MNB Bonus Header"
             Clustered = true;
         }
     }
+    procedure TestStatusOpen()
+    begin
+        TestField(Status, Status::Open);
+    end;
+
+    trigger OnInsert()
+    var
+        MNBBonusSetup: Record "MNB Bonus Setup";
+        NoSeriesManagement: Codeunit NoSeriesManagement;
+    begin
+        if "No." = '' then begin
+            MNBBonusSetup.Get();
+            MNBBonusSetup.TestField("Bonus Nos.");
+            NoSeriesManagement.InitSeries(MNBBonusSetup."Bonus Nos.", MNBBonusSetup."Bonus Nos.", WorkDate(), "No.", MNBBonusSetup."Bonus Nos.");
+        end;
+    end;
 }
